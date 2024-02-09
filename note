@@ -1,0 +1,23 @@
+npm init = node package manager initialisation
+express = package pour backend (build server et build responce pour repondre au besion de client)
+
+
+node index.js
+
+>>>>
+
+npm install nodemon
+je peux utiliser la biblio nodemon sans install 
+npx nodemon index.js
+nodemon index.js
+
+
+
+npm install ejs
+= template engine a l'interieur de jtml on peut ecrire des codes javascript
+
+
+database
+
+npm install mongoose
+
