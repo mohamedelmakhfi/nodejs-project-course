@@ -23,8 +23,8 @@ mongoose
 //request with path body il faut ajouter jSon pour afficher
 app.use(express.json());
 
-app.put("/hi", (req, res) => {
-  res.send("you testing out !");
+app.put("/", (req, res) => {
+  res.send("you visited our site !");
 });
 
 app.post("/addcommit", (req, res) => {
